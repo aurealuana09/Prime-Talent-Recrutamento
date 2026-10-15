@@ -25,19 +25,6 @@ Atendimento a empresas da Baixada Santista, com atuação em vagas gerais e foco
 
 ---
 
-## Integrantes
-
-| Nome | RA |
-|--------|--------|
-| Cauan Christie | A informar |
-| Levi Santos Guimarães | 2223100933 |
-| Luana Aurea dos Santos | 2223108552 |
-| Nicollas Santos Conceição | 2222204549 |
-| Pedro Henrique Ferreira Rolim | 2223109365 |
-| Rayssa Sacramento Guerra | 2223106170 |
-
----
-
 ## Links do Projeto
 
 - GitHub: (adicionar)
