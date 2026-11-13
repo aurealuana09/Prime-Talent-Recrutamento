@@ -149,7 +149,9 @@ Repositório GitHub
 
 Adicionar link do repositório.
 
-Tinkercad
+Tinkercad: 
+Circuit design Prime Talent - Monitor de Temperatura - Tinkercad
+https://www.tinkercad.com/things/hZCzg61Ey6S-prime-talent-monitor-de-temperatura?sharecode=3D_2157QUzoVGiqi_tOg5PbV1WZb8YD7TFAddsl8rN8
 
 Adicionar link público do circuito IoT.
 
