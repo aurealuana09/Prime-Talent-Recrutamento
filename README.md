@@ -25,7 +25,7 @@ Recrutamento e Seleção
 Comercial
 Colaboradores
 66 colaboradores próprios
-2 colaboradores terceirizados
+3 colaboradores terceirizados
 Modelo de Trabalho
 Regime híbrido
 Até 3 dias de home office por semana
